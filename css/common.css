@@ -1,0 +1,22 @@
+/* HEADER */
+.titulo {
+	margin: 3% 0;
+}
+/* Menú */
+nav li {
+	display: inline-block;
+	font-size: 0.9em;
+}
+nav a {
+	margin: 0 40px;
+}
+nav a:hover {
+	color: #020E1C;
+}
+/* Formulario de Contacto */
+.formContacto {
+	background-image: url(../img/shoes_1.jpg);
+	height: 500px;
+	background-position: right;
+	background-repeat: no-repeat;
+}
